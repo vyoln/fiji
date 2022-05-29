@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/fiji/__init__.py
+src/fiji/main.py
+src/fiji.egg-info/PKG-INFO
+src/fiji.egg-info/SOURCES.txt
+src/fiji.egg-info/dependency_links.txt
+src/fiji.egg-info/top_level.txt
